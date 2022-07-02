@@ -1,10 +1,10 @@
 <x-guest-layout>
     <!-- Main Hero Content -->
     <div class="container max-w-lg px-4 py-32 mx-auto text-left bg-center bg-no-repeat bg-cover md:max-w-none md:text-center"
-        style="background-image: url(https://www.upload.ee/image/14252150/resto.jpg)">
+        style="background-image: url(https://d22ir9aoo7cbf6.cloudfront.net/wp-content/uploads/sites/3/2017/03/KAUM.jpg)" >
         <h1
             class="font-arial text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500 md:text-center sm:leading-none lg:text-5xl">
-            <span class="inline md:block">Selamat Datang Di Sandra Kuliner</span>
+            <span class="inline md:block">Selamat Datang Di Politech Restaurant</span>
         </h1>
         <div class="mx-auto mt-2 text-green-50 md:text-center lg:text-lg">
             Selamat datang di website untuk melakukan reservasi restaurant secara online.
