@@ -53,7 +53,7 @@
                 </div>
                 <div class="w-full md:w-1/2">
                     <div class="w-full h-auto overflow-hidden rounded-md shadow-xl sm:rounded-xl">
-                        <img src="https://cdn.pixabay.com/photo/2017/08/03/13/30/people-2576336_960_720.jpg" />
+                        <img src="https://s3.ap-southeast-1.amazonaws.com/cdn.orbit/wp-content/uploads/2022/01/07142031/medja1.jpg" />
                     </div>
                 </div>
             </div>
@@ -106,7 +106,7 @@
                 </div>
                 <div class="w-full px-3 mb-12 lg:w-1/2 order-0 lg:order-1 lg:mb-0"><img
                         class="mx-auto sm:max-w-sm lg:max-w-full"
-                        src="https://cdn.pixabay.com/photo/2020/12/31/12/28/cook-5876388_960_720.png"
+                        src="https://cdn.pixabay.com/photo/2021/05/25/02/03/restaurant-6281067_960_720.png"
                         alt="feature image"></div>
             </div>
         </div>
