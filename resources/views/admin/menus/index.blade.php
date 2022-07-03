@@ -36,6 +36,13 @@
                                     </tr>
                                 </thead>
                                 <tbody>
+                                    <?php
+                                    function rupiah($angka)
+                                    {
+                                        $hasil = 'Rp ' . number_format($angka, 2, ',', '.');
+                                        return $hasil;
+                                    }
+                                    ?>
                                     @foreach ($menus as $menu)
                                         <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
                                             <td
@@ -48,7 +55,7 @@
                                             </td>
                                             <td
                                                 class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
-                                                {{ $menu->price }}
+                                                {{ rupiah($menu->price) }}
                                             </td>
                                             <td
                                                 class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
